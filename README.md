@@ -1,3 +1,3 @@
 # Prog1
 Ezt olvasd el
-És rzt
+És javítottma egy sort
