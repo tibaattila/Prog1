@@ -108,6 +108,7 @@ def main():
     print()
     # haromszog()
     print(fg(-10))
+    print("Javitott sor")
 
 
 
