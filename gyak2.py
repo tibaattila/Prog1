@@ -145,7 +145,8 @@ def fel5():
     except OSError as e:
         print(e)
     except Exception:
-        pass
+        print("minden")
+        print(",asik")
     finally:
         fajl.close()
         fajl2.close()
